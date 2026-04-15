@@ -10,7 +10,7 @@
 </section>
 <section id="resumo">
   <h2>Resumo Profissional</h2>
-  <p>"Com uma década de experiência e tendo como pilares sólidos a qualidade, o atendimento humanizado e a geração de valor, busco realocação nas áreas de Testes de Software ou Suporte Técnico, com o objetivo de entregar resultados que impactem positivamente tanto os produtos monetizados quanto os clientes."</p>
+  <p>"Com uma década de experiência e tendo como pilares sólidos a qualidade, o atendimento humanizado e a geração de valor, busco recolocação nas áreas de Testes de Software ou Suporte Técnico, com o objetivo de entregar resultados que impactem positivamente tanto os produtos monetizados quanto os clientes."</p>
 </section>
 <section id="qualificacoes">
   <h2>Qualificações</h2>
