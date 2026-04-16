@@ -12,6 +12,7 @@
   <h2>Resumo Profissional</h2>
   <p>Com uma década de experiência e tendo como pilares sólidos a qualidade, o atendimento humanizado e a geração de valor, busco recolocação nas áreas de Testes de Software ou Suporte Técnico, com o objetivo de entregar resultados que impactem positivamente tanto os produtos monetizados quanto os clientes.</p>
 </section>
+<section>
 <style>
   .portfolio-section {
     max-width: 900px;
@@ -126,6 +127,7 @@
     <div class="portfolio-highlight">📈 KPIs de transporte | Relatórios executivos | Reuniões de estratégia</div>
   </div>
 </div>
+</section>
 <section id="qualificacoes">
   <h2>Qualificações</h2>
   <ul>
